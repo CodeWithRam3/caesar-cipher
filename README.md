@@ -28,13 +28,15 @@ A simple web tool for **encryption** and **decryption** of messages using the **
 - Adding advanced features like multiple key encryption.
 
 ##Index.html
-![image](https://github.com/user-attachments/assets/fc33b2b5-1197-40d3-b455-9bd8df7352d4)
+
+![image](https://github.com/user-attachments/assets/d2212d11-0f4d-4885-bfd9-ac13f2d5437a)
 
 #Main.html
 ##Encryption
-![image](https://github.com/user-attachments/assets/4cc2d8e9-0a94-47e5-89de-e49d1a5f7e40)
+![image](https://github.com/user-attachments/assets/8a8ede24-5494-40cf-9b4c-7c3ee40b25b1)
 
 ##Decryption
-![image](https://github.com/user-attachments/assets/a378aff5-21be-4371-8ca8-d30062a6aea7)
+![image](https://github.com/user-attachments/assets/ba9b5a61-147c-46a2-ae93-c83e7301de03)
+
 
 
